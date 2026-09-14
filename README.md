@@ -1,14 +1,7 @@
 # osg-display
 
-MIT · Ubuntu GUI / noVNC surface.
+MIT · noVNC / GUI display stack.
 
-**Depends on:** `osg-core`
-
-```text
-osg-display/
-├── display.go
-├── novnc/
-└── LICENSE
+```bash
+go build -C osg-display ./...
 ```
-
-See [LICENSING.md](../docs/LICENSING.md).
