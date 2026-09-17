@@ -63,6 +63,7 @@ osg sandbox create --name gui --from gui --display novnc \
 
 | Resource | Link |
 |----------|------|
+| Roadmap | [ROADMAP.md](./ROADMAP.md) |
 | Organization | [https://github.com/zorneth](https://github.com/zorneth) |
 | Organization overview | [github.com/zorneth](https://github.com/zorneth) |
 | pkg.go.dev | [`github.com/zorneth/osg-display`](https://pkg.go.dev/github.com/zorneth/osg-display) |
