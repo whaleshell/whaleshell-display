@@ -11,8 +11,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/zorneth/osg-core"
-	"github.com/zorneth/osg-core/defaults"
+	"github.com/whaleshell/whaleshell-core"
+	"github.com/whaleshell/whaleshell-core/defaults"
 )
 
 // Mode selects how the agent GUI is exposed to the operator.

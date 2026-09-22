@@ -1,4 +1,4 @@
-// Package novnc documents the in-guest noVNC stack (started by osg-gui-boot).
+// Package novnc documents the in-guest noVNC stack (started by whaleshell-gui-boot).
 // Host-side "start" is satisfied by Docker port publish + guest supervisor;
 // this type remains for API symmetry / future CDP hybrids.
 package novnc
@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/zorneth/osg-display"
+	"github.com/whaleshell/whaleshell-display"
 )
 
 // Stack reports the URL for an already-published guest noVNC port.
